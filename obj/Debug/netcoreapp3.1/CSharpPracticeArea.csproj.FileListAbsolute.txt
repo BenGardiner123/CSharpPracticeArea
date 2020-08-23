@@ -1,0 +1,13 @@
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\bin\Debug\netcoreapp3.1\CSharpPracticeArea.exe
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\bin\Debug\netcoreapp3.1\CSharpPracticeArea.deps.json
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\bin\Debug\netcoreapp3.1\CSharpPracticeArea.runtimeconfig.json
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\bin\Debug\netcoreapp3.1\CSharpPracticeArea.runtimeconfig.dev.json
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\bin\Debug\netcoreapp3.1\CSharpPracticeArea.dll
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\bin\Debug\netcoreapp3.1\CSharpPracticeArea.pdb
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\obj\Debug\netcoreapp3.1\CSharpPracticeArea.csprojAssemblyReference.cache
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\obj\Debug\netcoreapp3.1\CSharpPracticeArea.csproj.CoreCompileInputs.cache
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\obj\Debug\netcoreapp3.1\CSharpPracticeArea.AssemblyInfoInputs.cache
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\obj\Debug\netcoreapp3.1\CSharpPracticeArea.AssemblyInfo.cs
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\obj\Debug\netcoreapp3.1\CSharpPracticeArea.dll
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\obj\Debug\netcoreapp3.1\CSharpPracticeArea.pdb
+C:\Users\Cooler Master\Documents\swinburne\CSharpPracticeArea\obj\Debug\netcoreapp3.1\CSharpPracticeArea.genruntimeconfig.cache
