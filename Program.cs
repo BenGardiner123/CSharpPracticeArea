@@ -6,15 +6,20 @@ namespace CSharpPracticeArea
     {
         static void Main(string[] args)
         {
-            Program p1 = new Program();
+          /*   Program p1 = new Program();
             System.Console.WriteLine(p1.FibonacciRec(1, 1, 1));
             System.Console.WriteLine(p1.FibonacciRec(1, 2, 3));
             System.Console.WriteLine(p1.FibonacciRec(1, 3, 4));
-            System.Console.WriteLine(p1.FibonacciRec(1, 1, 10));
+            System.Console.WriteLine(p1.FibonacciRec(1, 1, 10)); */
+
+          /*   System.Console.WriteLine(isFactorial(24));
+            System.Console.WriteLine(isFactorial(6));
+            System.Console.WriteLine(isFactorial(3));
+            System.Console.WriteLine(isFactorial(7)); */
         
         }
 
-            /// <summary>
+            /* /// <summary>
             /// Returns the nth Fibonacci number
             /// </summary>
             /// <param name="num1"></param>
@@ -28,8 +33,35 @@ namespace CSharpPracticeArea
                     num2 = num1 + num2;
                     return FibonacciRec(num2, num2 + num1, numFibs);
                 }   
-                return num2 + num1;
+                return num2 + num1; */
+
+
+         /*     static Boolean isFactorial(int n)  
+            {  
+                for (int i = 1;; i++)  
+                {  
+                    if (n % i == 0)  
+                    {  
+                        n /= i;  
+                    }  
+                    else
+                    {  
+                        break;  
+                    }  
+                }  
             
-            }
+                if (n == 1)  
+                {  
+                    return true;  
+                }  
+                else
+                {  
+                    return false;  
+                }   
+            }  
+        */
+            
+            
+        
     }
 }
